@@ -1,3 +1,12 @@
+# Keil files
+*.uvoptx
+*.uvguix
+*.LazarevSD
+JLinkLog.txt
+EventRecorderStub.scvd
+Listings/
+Objects/*
+
 # Prerequisites
 *.d
 
